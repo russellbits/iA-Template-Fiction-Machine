@@ -9,7 +9,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.russelbits.template</string>
 	<key>CFBundleName</key>
-	<string>Troped</string>
+	<string>Fiction Machine</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -31,6 +31,6 @@
 	<key>IATemplateAuthor</key>
 	<string>Russell Warner</string>
 	<key>IATemplateAuthorURL</key>
-	<string>https://russellbits.com/IAtemplates</string>
+	<string>https://russellbits.com/</string>
 </dict>
 </plist>
