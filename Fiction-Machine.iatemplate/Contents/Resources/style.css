@@ -20,6 +20,16 @@
   color: #fff;
 }
 
+.header {
+    color: rgba(0, 0, 0, 0);
+    text-align: center;
+}
+
+.footer {
+    color: rgba(0, 0, 0, 0);
+    text-align: center;
+}
+
 body {
   margin: 1.5in 1in 1.5in 1in
 }
