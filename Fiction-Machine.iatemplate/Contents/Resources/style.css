@@ -25,17 +25,6 @@
 .night-mode {
   color: #fff;
   background-color: rgba(0, 0, 0, 1);
-
-  .header {
-      color: rgba(0, 0, 0, 1);
-      text-align: center;
-  }
-
-  .footer {
-      color: rgba(0, 0, 0, 1);
-      text-align: center;
-  }
-
 }
 
 body {
