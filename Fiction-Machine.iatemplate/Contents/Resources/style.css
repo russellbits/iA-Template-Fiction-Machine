@@ -59,17 +59,18 @@ h1 {
   padding: 0;
   margin: 1em 0 1em 0;
   hyphens: none;
+  page-break-before: always;
 }
 
 h2 {
   font: 2.0em 'Cardo';
+  font-style: italic;
   text-indent: 0;
   text-align: center;
-  line-height: 1em;
-  font-style: italic;
-  width: 100%;
+  line-height: 1.8em;
+  width: 16em;
   padding: 0;
-  margin: 1em 0 5em 0;
+  margin: 1em auto 3em auto;
   hyphens: none;
 }
 
