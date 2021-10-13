@@ -27,15 +27,29 @@
   background-color: rgba(0, 0, 0, 1);
 }
 
-body {
-  margin: 1.5in 1in 1.5in 1in
+@media print {
+    body {
+        color: rgba (0, 0, 0, 1);
+        margin: 1.5in 1in 1.5in 1in
+    }
 }
 
+@media screen {
+    body {
+        color: rgba (1, 1, 1, 1);
+        width: 90%;
+        margin: 3em auto;
+    }
+}
+
+
 .header {
+    font: 0.8em 'Helvetica', sans-serif;
     text-align: center;
 }
 
 .footer {
+    font: 0.8em 'Helvetica', sans-serif;
     text-align: center;
 }
 
