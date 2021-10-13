@@ -122,6 +122,10 @@ hr:after p {
   width: 80%;
 }
 
+img {
+    max-width: 100%;
+}
+
 blockquote {
   width: 360px;
   margin: 0 auto 0 auto;
