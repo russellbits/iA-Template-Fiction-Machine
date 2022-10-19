@@ -9,7 +9,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.russelbits.template</string>
 	<key>CFBundleName</key>
-	<string>Fiction Machine</string>
+	<string>Teehan + Lax</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -27,12 +27,12 @@
 	<key>IATemplateHeaderHeight</key>
 	<integer>90</integer>
 	<key>IATemplateDescription</key>
-	<string>An IA template based on the CSS from The Neverending Fiction Machine.</string>
+	<string>An IA template based on the CSS from the web site Teehan + Lax https://teehanlax.com.</string>
 	<key>IATemplateAuthor</key>
 	<string>Russell Warner</string>
 	<key>IATemplateAuthorURL</key>
 	<string>https://russellbits.com/</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2018 Russell Warner. All rights reserved.</string>
+	<string>Copyright © 2022 Russell Warner. All rights reserved.</string>
 </dict>
 </plist>
